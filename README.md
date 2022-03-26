@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Carlos Paiva 👋
 
-<!--
-**cdpaiva/cdpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Chemical Engineer, currently studying System Analysis and Development at INFNET and pursuing a career change into web development.
+I love to learn about programming and share knowledge with others, my go-to place for that is [Exercism](https://exercism.org/profiles/cdpaiva) 
+I'm interested in all parts of Full Stack Development, at the moment I'm diving into Front-end development.
 
-Here are some ideas to get you started:
+<summary>🤝 <b>To connect with me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-damiani/)
+
+</p>
+
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning fron-tend technologies, namely Vue.js and React
+- 😄 Pronouns: he/him/his
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cdpaiva&show_icons=true&theme=bear" width = 400>
+</p>
