@@ -13,7 +13,7 @@ I'm interested in all parts of Full Stack Development, at the moment I'm diving 
 </p>
 
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning fron-tend technologies, namely Vue.js and React
+- 🌱 I’m currently learning front-end technologies, namely Vue.js and React
 - 😄 Pronouns: he/him/his
 
 <p align = "center">
