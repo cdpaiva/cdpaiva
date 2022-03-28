@@ -1,6 +1,6 @@
 ### Hi there, I'm Carlos Paiva 👋
 
-I'm a Chemical Engineer, currently studying System Analysis and Development at INFNET and pursuing a career change into web development.
+I'm a Chemical Engineer, currently studying System Analysis and Development at INFNET (Rio de Janeiro, Brazil - remote) and pursuing a career change into web development.
 I love to learn about programming and share knowledge with others, my go-to place for that is [Exercism](https://exercism.org/profiles/cdpaiva) 
 I'm interested in all parts of Full Stack Development, at the moment I'm diving into Front-end development.
 
