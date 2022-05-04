@@ -4,6 +4,8 @@ I'm a Chemical Engineer, currently studying System Analysis and Development at I
 I love to learn about programming and share knowledge with others, my go-to place for that is [Exercism](https://exercism.org/profiles/cdpaiva) 
 I'm interested in all parts of Full Stack Development, at the moment I'm diving into Front-end development.
 
+If you have some time, do [check my blog](https://cdpaiva.github.io).
+
 🤝 <b>To connect with me</b>
 
 <p align = "center">
