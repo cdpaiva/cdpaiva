@@ -19,5 +19,9 @@ If you have some time, do [check my blog](https://cdpaiva.github.io).
 - 😄 Pronouns: he/him/his
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cdpaiva&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=cdpaiva&show_icons=true&theme=dark" width = 400>
+</p>
+
+<p align = "center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdpaiva&langs_count=6&hide=HTML,CSS&layout=compact&theme=dark">
 </p>
